@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Shadow-sir01+WA+Bot...;Created+by+Aju...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Shadow-sir01+WA+Bot...;Created+by+Shadow-sir...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Shadow-sir01" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
+<a href="#"><img title="Shadow-sir01" src="https://img.shields.io/badge/-Shadow-sirser-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/shadowkingskba"><img title="aju" src="https://img.shields.io/badge/author-shadowkingskba?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/shadowkingskba"><img title="Shadow-sir" src="https://img.shields.io/badge/author-shadowkingskba?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/shadowkingskba">aju</a> to make it public
+Project created by <a href="https://github.com/shadowkingskba">Shadow-sir</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/shadowkingskba">aju</a> to make i
     <img src="https://img.shields.io/github/repo-size/shadowkingskba/Shadow-sir01?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/shadowkingskba/followers"><img title="Followers" src="https://img.shields.io/github/followers/shadowkingskba?color=grey&style=plastic"></a>
-<a href="https://github.com/shadowkingskba/Shadow-sir01/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shadowkingskba/Ajuser?color=grey&style=plastic"></a>
+<a href="https://github.com/shadowkingskba/Shadow-sir01/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shadowkingskba/Shadow-sirser?color=grey&style=plastic"></a>
 <a href="https://github.com/shadowkingskba/Shadow-sir01/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shadowkingskba/Shadow-sir01?color=grey&style=plastic"></a>
 <a href="https://github.com/shadowkingskba/Shadow-sir01/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shadowkingskba/Shadow-sir01?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
@@ -56,7 +56,7 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shadowkingskba1/Ajuserv2-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shadowkingskba1/Shadow-sirserv2-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shadowkingskba/Shadow-sir01)
      </div>
@@ -121,9 +121,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://github.com/shadowkingskba.png?size=100)](https://github.com/shadowkingskba)
+  [![Shadow-sir](https://github.com/shadowkingskba.png?size=100)](https://github.com/shadowkingskba)
 
-[aju](https://github.com/shadowkingskba)  
+[Shadow-sir](https://github.com/shadowkingskba)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
