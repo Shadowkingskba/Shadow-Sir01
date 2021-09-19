@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/cK5fFMN/shadowsirbot.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Shadow-sir01" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
 </p>
