@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: 𝐒𝐇𝐀𝐃𝐎𝐖-𝐒𝐈𝐑𝟎𝟏*
  
 
         *Github link        _https://github.com/Shadowkingskba/Shadow-Sir01*
